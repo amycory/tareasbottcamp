@@ -7,4 +7,3 @@ nombre2 = gets.chomp
 
 puts "Hola," + nombre + " " + nombre2 + "."
 
-
